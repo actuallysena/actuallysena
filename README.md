@@ -16,16 +16,11 @@
 
 Selamlar, Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
-Kod yazmayı sadece "işlevsel ürünler" çıkarmak için değil, aynı zamanda **verinin arkasındaki desenleri çözmek** (AI) için kullanıyorum. Akademik olarak **Deepfake Tespiti** üzerine yoğunlaşırken, endüstriyel tarafta **.NET ekosistemi** ile güçlü backend mimarileri kuruyorum.
-
-* 🔭 **Şu an ne yapıyorum?** Denoising Autoencoder ve ResNet mimarilerini birleştirerek görsel manipülasyonlarını yakalıyorum.
-* 🌱 **Odak Noktam:** Computer Vision, Generative AI (GANs), Temiz Mimari (Clean Architecture).
-
+* 🔭 **Şu an ne yapıyorum?** Denoising Autoencoder ve ResNet mimarilerini birleştirerek görsel manipülasyonlarını yakalayan bir ai modeli üzerinde çalışıyorum.
 
 ---
 
 ### 🧠 Tech Stack & Araçlar
-
 <div align="center">
 
 | Alan | Teknolojiler |
@@ -45,7 +40,6 @@ Kod yazmayı sadece "işlevsel ürünler" çıkarmak için değil, aynı zamanda
 |:---|:---:|:---|
 | **Deepfake Detective (Research)** | `PyTorch` `ResNet` | Denoising Autoencoder ile denetimsiz anomali tespiti yapan yapay zeka sistemi. |
 | **Student Info System (SIS)** | `.NET 8` `PostgreSQL` | YEĞİTEK stajımda geliştirdiğim, katmanlı mimariye sahip masaüstü otomasyonu. |
-| **Gemini Discord Bot** | `Python` `LLM` | Google Gemini API kullanarak doğal dil ile sohbet edebilen interaktif bot. |
 
 ---
 
