@@ -1,10 +1,6 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sena!;Software+Developer+%26+AI+Researcher;Building+Deep+Learning+Models;.NET+Core+%26+Backend+Developer" alt="Typing SVG" />
-
 </div>
-
----
 
 ### 👩‍💻 Hakkımda
 
