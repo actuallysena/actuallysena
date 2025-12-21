@@ -32,7 +32,7 @@ Selamlar, Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 
 
 | Proje İsmi | Teknoloji | Açıklama |
 |:---|:---:|:---|
-| **Deepfake Detective (Research)** | `PyTorch` `ResNet` | Denoising Autoencoder ile denetimsiz anomali tespiti yapan yapay zeka sistemi. |
+| **Deepfake Anomaly Detection (Research)** | `PyTorch` `ResNet` | Denoising Autoencoder ile denetimsiz anomali tespiti yapan yapay zeka sistemi. |
 | **Student Info System (SIS)** | `.NET 8` `PostgreSQL` | YEĞİTEK stajımda geliştirdiğim, katmanlı mimariye sahip masaüstü otomasyonu. |
 
 ---
