@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**actuallysena/actuallysena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sena+Altiparmak!;AI+Developer+Intern+%26+Researcher;Building+Deep+Learning+Models;.NET+Core+%26+Backend+Developer" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://linkedin.com/in/sena-altiparmak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:actuallysena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/actuallysena"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👩‍💻 Hakkımda
+
+Selamlar! Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
+
+Kod yazmayı sadece "işlevsel ürünler" çıkarmak için değil, aynı zamanda **verinin arkasındaki desenleri çözmek** (AI) için kullanıyorum. Akademik olarak **Deepfake Tespiti** üzerine yoğunlaşırken, endüstriyel tarafta **.NET ekosistemi** ile güçlü backend mimarileri kuruyorum.
+
+* 🔭 **Şu an ne yapıyorum?** Denoising Autoencoder ve ResNet mimarilerini birleştirerek video manipülasyonlarını yakalıyorum.
+* 🌱 **Odak Noktam:** Computer Vision, Generative AI (GANs), Temiz Mimari (Clean Architecture).
+* ⚡ **Fun Fact:** Modellerim eğitilirken arka planda strateji oyunları oynamayı severim. 🎮
+
+---
+
+### 🧠 Tech Stack & Araçlar
+
+<div align="center">
+
+| Alan | Teknolojiler |
+|:---:|:---|
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **Backend** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Öne Çıkan Çalışmalar
+
+| Proje İsmi | Teknoloji | Açıklama |
+|:---|:---:|:---|
+| **Deepfake Detective (Research)** | `PyTorch` `ResNet` | Denoising Autoencoder ile denetimsiz anomali tespiti yapan yapay zeka sistemi. |
+| **Student Info System (SIS)** | `.NET 8` `PostgreSQL` | YEĞİTEK stajımda geliştirdiğim, katmanlı mimariye sahip masaüstü otomasyonu. |
+| **Gemini Discord Bot** | `Python` `LLM` | Google Gemini API kullanarak doğal dil ile sohbet edebilen interaktif bot. |
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=actuallysena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actuallysena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="langs" />
+</div>
