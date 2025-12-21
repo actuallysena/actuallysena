@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sena+Altiparmak!;AI+Developer+Intern+%26+Researcher;Building+Deep+Learning+Models;.NET+Core+%26+Backend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sena!;Software+Developer+%26+AI+Researcher;Building+Deep+Learning+Models;.NET+Core+%26+Backend+Developer" alt="Typing SVG" />
 
 <p align="center">
     <a href="https://linkedin.com/in/sena-altiparmak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
