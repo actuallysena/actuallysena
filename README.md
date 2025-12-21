@@ -2,12 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sena!;Software+Developer+%26+AI+Researcher;Building+Deep+Learning+Models;.NET+Core+%26+Backend+Developer" alt="Typing SVG" />
 
-<p align="center">
-    <a href="https://linkedin.com/in/sena-altiparmak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:actuallysena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/actuallysena"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
 </div>
 
 ---
@@ -46,4 +40,12 @@ Selamlar, Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=actuallysena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actuallysena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="langs" />
+
+    
+<p align="center">
+    <a href="https://linkedin.com/in/sena-altiparmak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:actuallysena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/actuallysena"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </div>
