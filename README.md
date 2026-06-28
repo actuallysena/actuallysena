@@ -4,9 +4,9 @@
 
 ### 👩‍💻 Hakkımda
 
-Selamlar, Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
+Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
-* 🔭 **Şu an ne yapıyorum?** Denoising Autoencoder ve ResNet mimarilerini birleştirerek görsel manipülasyonlarını yakalayan bir ai modeli üzerinde çalışıyorum.
+
 
 ---
 
