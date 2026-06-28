@@ -28,6 +28,7 @@ Ben **Sena**. Kırıkkale Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf
 
 | Proje İsmi | Teknoloji | Açıklama |
 |:---|:---:|:---|
+| **DMS: Driver Monitoring System** | `PyTorch` `YOLOv26n` `Kotlin` | Multi-Task Temporal Attention ve YOLO modelleri ile sürücü yorgunluk/tehlikeli davranış tespit sistemi (Edge AI). |
 | **Deepfake Anomaly Detection (Research)** | `PyTorch` `ResNet` | Denoising Autoencoder ile denetimsiz anomali tespiti yapan yapay zeka sistemi. |
 | **Student Info System (SIS)** | `.NET 8` `PostgreSQL` | .Net 8 ile geliştirdiğimiz katmanlı mimariye sahip masaüstü otomasyonu. |
 
